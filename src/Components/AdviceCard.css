@@ -64,6 +64,11 @@ p{
     
 }
 
+#dice:hover {
+    box-shadow: 0px 0px 40px 0px rgba(83,255,169,1);
+    transition: .2s ease-in;
+  } 
+
 @media (max-width: 414px){
     
     p{
